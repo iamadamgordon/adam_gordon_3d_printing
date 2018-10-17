@@ -1,0 +1,6 @@
+FRJ_1x2i_FC-2FC_holder
+- take img3 / 4
+
+fiber_photometry_case
+- create read me
+- take images
