@@ -15,6 +15,7 @@ directions:
   
 printing notes:
 - printer: taz6 
+- software: cura 21.08
 - material: polylite PLA
 - detail: high 
 - custom print settings: Advance > 'Open expert settings' > uncheck 'Fix horrible' type-A 
@@ -22,9 +23,9 @@ printing notes:
 - print time: ~30m / piece 
 
 image key:
-- 'FRJ_1x1_FC-FC_holder_img1.png': top 
-- 'FRJ_1x1_FC-FC_holder_img2.png': piece + rotary joint
-- 'FRJ_1x1_FC-FC_holder_img3.png': piece + rotary joint + mounted
+- 'FRJ_1x1_FC-FC_holder_img1.jpg': top 
+- 'FRJ_1x1_FC-FC_holder_img2.jpg': piece + rotary joint
+- 'FRJ_1x1_FC-FC_holder_img3.jpg': piece + rotary joint + mounted
 
 
 
